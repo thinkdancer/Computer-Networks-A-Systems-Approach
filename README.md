@@ -1,7 +1,7 @@
 # Computer-Networks-A-Systems-Approach
 
 # 原文信息
-Title: TCP Congestion Control: A Systems Approach
+Title: Computer Networks: A Systems Approach
 
 Authors: Larry Peterson and Bruce Davie
 
